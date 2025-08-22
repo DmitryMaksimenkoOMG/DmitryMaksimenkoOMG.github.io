@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "546907579448",
+    "firebase_url": "https://just-survive-5072f.firebaseio.com",
+    "project_id": "just-survive-5072f",
+    "storage_bucket": "just-survive-5072f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546907579448:android:46ff0a1c7d0613166772cd",
+        "android_client_info": {
+          "package_name": "com.openmygame.games.android.jsurvive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546907579448-1isb6fb6f9ihmsoh6i55naj332gp01or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7n_OuMJTrvj_M_Iwiz41CeaxVkfkowHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546907579448-1isb6fb6f9ihmsoh6i55naj332gp01or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9129821932892349~1965301405"
+    }
+  ],
+  "configuration_version": "1"
+}
